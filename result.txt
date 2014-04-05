@@ -1,0 +1,21 @@
+http://en.wikipedia.org/wiki/Star_Wars time:0.927714 size:430748 return_code:200 score:9223372036854775808 actually:823
+http://starwars.com/ time:1.009592 size:39604 return_code:200 score:9223372036854775808 actually:63
+http://www.lego.com/en-us/starwars time:1.178407 size:142365 return_code:200 score:9223372036854775808 actually:44
+http://starwars.wikia.com/wiki/Star_Wars time:1.453691 size:218201 return_code:200 score:9223372036854775808 actually:551
+http://www.amazon.com/Star-Wars-Two-Disc-Widescreen-Theatrical/dp/B000FQJAIW time:1.833881 size:325843 return_code:200 score:9223372036854775808 actually:134
+http://www.amazon.com/Trilogy-Empire-Strikes-Widescreen-Edition/dp/B00003CXCT time:2.191447 size:338552 return_code:200 score:9223372036854775942 actually:138
+http://www.swtor.com/ time:2.27726 size:33755 return_code:200 score:9223372036854775808 actually:20
+https://twitter.com/starwars time:2.666091 size:204012 return_code:200 score:9223372036854775808 actually:117
+http://en.wikipedia.org/wiki/George_Lucas time:3.367814 size:252305 return_code:200 score:20575 actually:212
+http://www.youtube.com/user/starwars time:3.621314 size:184626 return_code:200 score:9223372036854775808 actually:93
+http://en.wikipedia.org/wiki/Star_Wars_(film) time:4.600379 size:355395 return_code:200 score:9315 actually:541
+http://en.wikipedia.org/wiki/Star_Wars_(film)#cite_note-Dreams-6 time:5.412452 size:355388 return_code:200 score:15689 actually:541
+http://en.wikipedia.org/wiki/American_Film_Institute time:5.822092 size:73355 return_code:200 score:9950 actually:6
+http://en.wikipedia.org/wiki/Star_Wars_(film)#cite_note-Heritage-39 time:6.664516 size:355388 return_code:200 score:8656 actually:541
+http://en.wikipedia.org/wiki/Star_Wars_(film)#cite_note-awards-100 time:7.515491 size:355388 return_code:200 score:12984 actually:541
+http://en.wikipedia.org/wiki/Harrison_Ford time:8.437498 size:217221 return_code:200 score:13196 actually:55
+http://en.wikipedia.org/wiki/Mark_Hamill time:9.023298 size:133830 return_code:200 score:13094 actually:89
+http://en.wikipedia.org/wiki/Steven_Spielberg time:10.392309 size:428888 return_code:200 score:11638 actually:28
+http://en.wikipedia.org/wiki/Carrie_Fisher time:10.973993 size:137814 return_code:200 score:10909 actually:72
+http://en.wikipedia.org/wiki/Chewbacca time:11.521251 size:124510 return_code:200 score:10909 actually:144
+number_of_files:21 total_size:4707188 total_time:12.381665 number_of_404_errors:0
